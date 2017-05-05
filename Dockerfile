@@ -1,4 +1,5 @@
-FROM ubuntu:14.04 
+#FROM ubuntu:14.04 
+FROM img.reg.3g:15000/ubuntu:14.04
 
 MAINTAINER liyao.miao@yeepay.com
 
