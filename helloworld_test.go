@@ -7,8 +7,7 @@ import (
 
 func Test_Say(t *testing.T) {
 	msg := "Hi"
-	Say(msg)
-	fmt.Println("Test")
+	fmt.Println(msg)
 }
 
 /*
